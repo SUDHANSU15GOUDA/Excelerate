@@ -1,4 +1,4 @@
-# Excelerate
+# Excelerate - Data Analyst Intern
 
 ## We were a team of 3 members. We were assigned the work to analyse and help the marketing on which ad campaign to stop based on the data. We were provided with the relevant data. I was assigned to do all the visualisation based on which the other team members were to make decisions. I have attached some of the charts and graphs.
 
